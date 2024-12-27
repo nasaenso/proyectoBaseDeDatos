@@ -1,2 +1,2 @@
 # proyectoBaseDeDatos
-Creación de una base de datos ficticia con consultas realizadas
+En este proyecto tuvimos que crear una base de datos ficticia y realizarle consultas.
